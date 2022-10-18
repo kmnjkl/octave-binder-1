@@ -1,0 +1,73 @@
+[I 17:21:54.845 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 17:21:55.178 NotebookApp] Loading IPython parallel extension
+[W 2022-10-18 17:21:55.927 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-18 17:21:55.927 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-18 17:21:55.927 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-18 17:21:55.927 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-18 17:21:55.927 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-18 17:21:55.927 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-18 17:21:55.927 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-18 17:21:55.927 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-10-18 17:21:55.927 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-10-18 17:21:55.927 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-18 17:21:55.927 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-18 17:21:55.927 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-10-18 17:21:55.938 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-10-18 17:21:55.938 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 17:21:55.946 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 17:21:55.948 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 17:21:55.949 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 17:21:55.949 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 17:21:55.949 NotebookApp] http://jupyter-kmnjkl-2doctave-2dbinder-2d1-2dem1hqtky:8888/user/kmnjkl-octave-binder-1-em1hqtky/?token=...
+[I 17:21:55.949 NotebookApp]  or http://127.0.0.1:8888/user/kmnjkl-octave-binder-1-em1hqtky/?token=...
+[I 17:21:55.949 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 17:21:55.954 NotebookApp] No web browser found: could not locate runnable browser.
+[I 17:21:56.387 NotebookApp] 302 GET /user/kmnjkl-octave-binder-1-em1hqtky/ (10.0.5.15) 1.300000ms
+[I 17:21:56.656 NotebookApp] 302 GET /user/kmnjkl-octave-binder-1-em1hqtky/?token=g-j3jKP8SJ6cvtPc4FBomg (109.252.142.157) 0.780000ms
+[I 17:21:56.847 NotebookApp] 301 GET /user/kmnjkl-octave-binder-1-em1hqtky/lab/?token=g-j3jKP8SJ6cvtPc4FBomg (109.252.142.157) 1.520000ms
+[I 17:22:03.331 NotebookApp] 301 GET /user/kmnjkl-octave-binder-1-em1hqtky/static/favicons/favicon.ico (109.252.142.157) 0.740000ms
+[I 2022-10-18 17:22:07.160 LabApp] Build is up to date
+[I 17:22:08.380 NotebookApp] 301 GET /user/kmnjkl-octave-binder-1-em1hqtky/static/favicons/favicon.ico (109.252.142.157) 0.750000ms
+[I 17:22:15.754 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[W 17:22:15.756 NotebookApp] Notebook index.ipynb is not trusted
+[I 17:22:20.409 NotebookApp] Kernel started: c23b5c0e-e26a-4194-8610-f10576eedcf4, name: octave
+[I 17:22:20.409 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 17:22:20.410 NotebookApp] Culling kernels even with connected clients
+[I 17:22:25.524 NotebookApp] Starting buffering for c23b5c0e-e26a-4194-8610-f10576eedcf4:6617edd4-bb11-49c4-81e8-5a2d641c6c3a
+[I 17:22:31.291 NotebookApp] 301 GET /user/kmnjkl-octave-binder-1-em1hqtky/static/favicons/favicon-busy-1.ico (109.252.142.157) 0.990000ms
+[MetaKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[MetaKernelApp] WARNING | No such comm: 50f8cf2f-05b1-460e-9d9f-b5a408c4bebb
+2022-10-18 17:23:07.199 [IPController] Hub listening on tcp://127.0.0.1:60607 for registration.
+2022-10-18 17:23:07.201 [IPController] Hub using DB backend: DictDB
+2022-10-18 17:23:07.455 [IPController] hub::created hub
+2022-10-18 17:23:07.456 [IPController] writing connection info to /home/jovyan/.ipython/profile_default/security/ipcontroller-client.json
+2022-10-18 17:23:07.457 [IPController] writing connection info to /home/jovyan/.ipython/profile_default/security/ipcontroller-engine.json
+2022-10-18 17:23:07.457 [IPController] task::using Python leastload Task scheduler
+2022-10-18 17:23:07.487 [task] Task scheduler started [leastload]
+2022-10-18 17:23:07.486 [IPController] Heartmonitor beating every 3000ms
+2022-10-18 17:23:07.488 [broadcast-0] BroadcastScheduler 0 started
+2022-10-18 17:23:07.490 [broadcast-00] BroadcastScheduler 00 started
+2022-10-18 17:23:07.494 [IPController] client::client b'\x00k\x8bEg' requested 'connection_request'
+2022-10-18 17:23:07.494 [IPController] client::client [b'\x00k\x8bEg'] connected
+2022-10-18 17:23:07.495 [broadcast-01] BroadcastScheduler 01 started
+2022-10-18 17:23:07.510 [IPController] heartbeat::waiting for subscription
+2022-10-18 17:23:07.511 [IPController] heartbeat::subscription started
+[I 17:23:07.535 NotebookApp] Starting 8 engines with <class 'ipyparallel.cluster.launcher.LocalEngineSetLauncher'>
+[I 17:23:10.390 NotebookApp] Starting 8 engines with <class 'ipyparallel.cluster.launcher.LocalEngineSetLauncher'>
+[I 17:23:14.799 NotebookApp] Stopping controller
+2022-10-18 17:23:14.800 [IPController] CRITICAL | Received signal 15, shutting down
+2022-10-18 17:23:14.801 [IPController] CRITICAL | terminating children...
+[I 17:23:18.287 NotebookApp] Controller stopped: {'exit_code': 0, 'pid': 100, 'identifier': 'ipcontroller-25'}
+[I 17:23:18.487 NotebookApp] Stopping engine(s): 1666113787
+[I 17:23:18.487 NotebookApp] Stopping engine(s): 1666113790
+2022-10-18 17:23:19.402 [IPEngine] Loading connection info from $IPP_CONNECTION_INFO
+2022-10-18 17:23:19.402 [IPEngine] WARNING | Not using CurveZMQ security
+2022-10-18 17:23:19.405 [IPEngine] Registering with controller at tcp://127.0.0.1:60607
+[W 17:23:20.636 NotebookApp] engine set stopped 1666113787: {'engines': {'0': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 134, 'identifier': '0'}, '1': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 137, 'identifier': '1'}, '2': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 140, 'identifier': '2'}, '3': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 143, 'identifier': '3'}, '4': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 146, 'identifier': '4'}, '5': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 149, 'identifier': '5'}, '6': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 153, 'identifier': '6'}, '7': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 157, 'identifier': '7'}}, 'exit_code': <Negsignal.SIGTERM: -15>}
+[W 17:23:20.642 NotebookApp] engine set stopped 1666113790: {'engines': {'0': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 163, 'identifier': '0'}, '1': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 167, 'identifier': '1'}, '2': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 175, 'identifier': '2'}, '3': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 179, 'identifier': '3'}, '4': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 185, 'identifier': '4'}, '5': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 189, 'identifier': '5'}, '6': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 192, 'identifier': '6'}, '7': {'exit_code': <Negsignal.SIGTERM: -15>, 'pid': 195, 'identifier': '7'}}, 'exit_code': <Negsignal.SIGTERM: -15>}
+[I 17:24:21.842 NotebookApp] Saving file at /index.ipynb
+[W 17:24:21.842 NotebookApp] Notebook index.ipynb is not trusted
+[I 17:24:30.609 NotebookApp] 301 GET /user/kmnjkl-octave-binder-1-em1hqtky/static/favicons/favicon-busy-1.ico (109.252.142.157) 0.670000ms
+[I 17:24:33.418 NotebookApp] Saving file at /index.ipynb
+[W 17:24:33.419 NotebookApp] Notebook index.ipynb is not trusted
+[I 17:24:37.323 NotebookApp] New terminal with automatic name: 1
