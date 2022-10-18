@@ -1,5 +1,5 @@
 {
-  "base_url": "/user/kmnjkl-octave-binder-1-em1hqtky/",
+  "base_url": "/user/kmnjkl-octave-binder-1-w1un3i0d/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
@@ -7,6 +7,6 @@
   "port": 8888,
   "secure": false,
   "sock": "",
-  "token": "g-j3jKP8SJ6cvtPc4FBomg",
-  "url": "http://0.0.0.0:8888/user/kmnjkl-octave-binder-1-em1hqtky/"
+  "token": "oV6175USTA-4Y38g5KBF9Q",
+  "url": "http://0.0.0.0:8888/user/kmnjkl-octave-binder-1-w1un3i0d/"
 }
